@@ -1,0 +1,14 @@
+pyautogui
+opencv-python
+pillow
+pywin32
+fastapi
+uvicorn
+pypdf
+python-docx
+openpyxl
+reportlab
+pandas
+httpx
+pygetwindow
+python-multipart
