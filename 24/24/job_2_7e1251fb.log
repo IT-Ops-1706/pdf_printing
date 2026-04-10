@@ -1,0 +1,8 @@
+2026-02-24 16:47:57 | INFO     | job.job_2_7e1251fb | START: Processing job job_2_7e1251fb - File: OOC.pdf
+2026-02-24 16:47:57 | INFO     | job.job_2_7e1251fb | Timestamp: 2026-02-24 16:47:57.977595
+2026-02-24 16:47:57 | INFO     | job.job_2_7e1251fb | Status: STARTED
+2026-02-24 16:47:57 | INFO     | job.job_2_7e1251fb | PHASE: Calling automation service
+2026-02-24 16:48:41 | INFO     | job.job_2_7e1251fb | Status: COMPLETED
+2026-02-24 16:48:41 | INFO     | job.job_2_7e1251fb | End Time: 2026-02-24 16:48:41.378429
+2026-02-24 16:48:41 | INFO     | job.job_2_7e1251fb | Duration: 43.40 seconds
+2026-02-24 16:48:41 | INFO     | job.job_2_7e1251fb | Result: Base64 output generated (78 chars)

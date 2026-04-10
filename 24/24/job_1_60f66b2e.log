@@ -1,0 +1,7 @@
+2026-02-24 16:47:49 | INFO     | job.job_1_60f66b2e | START: Processing job job_1_60f66b2e - File: BOE_IFDHJ.pdf
+2026-02-24 16:47:49 | INFO     | job.job_1_60f66b2e | Timestamp: 2026-02-24 16:47:49.928031
+2026-02-24 16:47:49 | INFO     | job.job_1_60f66b2e | Status: STARTED
+2026-02-24 16:47:49 | INFO     | job.job_1_60f66b2e | PHASE: Calling automation service
+2026-02-24 16:47:56 | ERROR    | job.job_1_60f66b2e | Status: FAILED
+2026-02-24 16:47:56 | ERROR    | job.job_1_60f66b2e | Error: Unexpected automation failure: Error code from Windows: 258 - The wait operation timed out.
+2026-02-24 16:47:56 | ERROR    | job.job_1_60f66b2e | Timestamp: 2026-02-24 16:47:56.963578

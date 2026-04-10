@@ -1,0 +1,73 @@
+{
+  "date": "2026-02-24",
+  "summary": {
+    "total": 6,
+    "queued": 0,
+    "processing": 0,
+    "completed": 4,
+    "failed": 2
+  },
+  "last_updated": "2026-02-24T17:06:19",
+  "jobs": {
+    "job_1_60f66b2e": {
+      "filename": "BOE_IFDHJ.pdf",
+      "status": "failed",
+      "queued_at": "2026-02-24T16:47:49",
+      "processing_at": "2026-02-24T16:47:49",
+      "completed_at": "2026-02-24T16:47:56",
+      "duration_seconds": 7.96,
+      "error": "Unexpected automation failure: Error code from Windows: 258 - The wait operation timed out.",
+      "error_type": "ui_automation_failed"
+    },
+    "job_2_7e1251fb": {
+      "filename": "OOC.pdf",
+      "status": "completed",
+      "queued_at": "2026-02-24T16:47:49",
+      "processing_at": "2026-02-24T16:47:57",
+      "completed_at": "2026-02-24T16:48:41",
+      "duration_seconds": 52.38,
+      "error": null,
+      "error_type": null
+    },
+    "job_3_21a99479": {
+      "filename": "BOE_IFDHJ.pdf",
+      "status": "completed",
+      "queued_at": "2026-02-24T16:55:06",
+      "processing_at": "2026-02-24T16:55:06",
+      "completed_at": "2026-02-24T16:55:45",
+      "duration_seconds": 39.41,
+      "error": null,
+      "error_type": null
+    },
+    "job_4_81db132b": {
+      "filename": "OOC.pdf",
+      "status": "completed",
+      "queued_at": "2026-02-24T16:55:06",
+      "processing_at": "2026-02-24T16:55:46",
+      "completed_at": "2026-02-24T16:56:24",
+      "duration_seconds": 78.42,
+      "error": null,
+      "error_type": null
+    },
+    "job_5_0dcd61b0": {
+      "filename": "OOC.pdf",
+      "status": "failed",
+      "queued_at": "2026-02-24T17:05:28",
+      "processing_at": "2026-02-24T17:05:29",
+      "completed_at": "2026-02-24T17:05:36",
+      "duration_seconds": 8.93,
+      "error": "Unexpected automation failure: Error code from Windows: 258 - The wait operation timed out.",
+      "error_type": "ui_automation_failed"
+    },
+    "job_6_6a797deb": {
+      "filename": "GP.pdf",
+      "status": "completed",
+      "queued_at": "2026-02-24T17:05:29",
+      "processing_at": "2026-02-24T17:05:37",
+      "completed_at": "2026-02-24T17:06:19",
+      "duration_seconds": 50.32,
+      "error": null,
+      "error_type": null
+    }
+  }
+}

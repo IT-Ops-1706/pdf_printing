@@ -1,0 +1,8 @@
+2026-02-24 16:55:46 | INFO     | job.job_4_81db132b | START: Processing job job_4_81db132b - File: OOC.pdf
+2026-02-24 16:55:46 | INFO     | job.job_4_81db132b | Timestamp: 2026-02-24 16:55:46.424170
+2026-02-24 16:55:46 | INFO     | job.job_4_81db132b | Status: STARTED
+2026-02-24 16:55:46 | INFO     | job.job_4_81db132b | PHASE: Calling automation service
+2026-02-24 16:56:24 | INFO     | job.job_4_81db132b | Status: COMPLETED
+2026-02-24 16:56:24 | INFO     | job.job_4_81db132b | End Time: 2026-02-24 16:56:24.421410
+2026-02-24 16:56:24 | INFO     | job.job_4_81db132b | Duration: 38.00 seconds
+2026-02-24 16:56:24 | INFO     | job.job_4_81db132b | Result: Base64 output generated (78 chars)

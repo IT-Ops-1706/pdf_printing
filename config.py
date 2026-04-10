@@ -16,14 +16,14 @@ class Config:
     PRINT_TIMEOUT: int = 120    # seconds
 
     # Timing constants (seconds) - Adjusted for Adobe Acrobat 9 Pro
-    DOCUMENT_LOAD_WAIT: int = 7
-    PRINT_DIALOG_WAIT: int = 4
-    SAVE_DIALOG_WAIT: int = 4
+    DOCUMENT_LOAD_WAIT: int = 20
+    PRINT_DIALOG_WAIT: int = 10
+    SAVE_DIALOG_WAIT: int = 10
     FILE_SAVE_WAIT: int = 20
 
     # Queue Configuration
     QUEUE_CHECK_INTERVAL: int = 1  # seconds
-    MAX_QUEUE_SIZE: int = 100      # Maximum jobs allowed in queue
+    MAX_QUEUE_SIZE: int = 50       # Maximum jobs allowed in queue
     INPUT_DIR: str = os.path.join(os.getcwd(), "inputs")   # Input PDFs storage
     OUTPUT_DIR: str = os.path.join(os.getcwd(), "outputs")
     
@@ -35,7 +35,7 @@ class Config:
     # PyAutoGUI settings
     PYAUTOGUI_FAILSAFE: bool = True
     PYAUTOGUI_PAUSE: float = 0.8
-
+    
     @classmethod
     def create_dirs(cls) -> None:
         """Ensure necessary directories exist"""

@@ -1,0 +1,7 @@
+2026-02-24 17:05:29 | INFO     | job.job_5_0dcd61b0 | START: Processing job job_5_0dcd61b0 - File: OOC.pdf
+2026-02-24 17:05:29 | INFO     | job.job_5_0dcd61b0 | Timestamp: 2026-02-24 17:05:29.921078
+2026-02-24 17:05:29 | INFO     | job.job_5_0dcd61b0 | Status: STARTED
+2026-02-24 17:05:29 | INFO     | job.job_5_0dcd61b0 | PHASE: Calling automation service
+2026-02-24 17:05:36 | ERROR    | job.job_5_0dcd61b0 | Status: FAILED
+2026-02-24 17:05:36 | ERROR    | job.job_5_0dcd61b0 | Error: Unexpected automation failure: Error code from Windows: 258 - The wait operation timed out.
+2026-02-24 17:05:36 | ERROR    | job.job_5_0dcd61b0 | Timestamp: 2026-02-24 17:05:36.931710

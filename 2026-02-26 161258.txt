@@ -1,0 +1,299 @@
+2026-02-26 16:12:58 | INFO     | print_automation | PHASE 9: Closing all Acrobat
+ windows...
+2026-02-26 16:12:58 | INFO     | print_automation | Finding and closing all veri
+fied Acrobat windows...
+2026-02-26 16:13:00 | INFO     | print_automation | Found 2 verified Acrobat win
+dows to close
+2026-02-26 16:13:00 | INFO     | print_automation | Closing Acrobat window 1: 'E
+GP_printed.pdf - Adobe Acrobat Pro'
+2026-02-26 16:13:05 | INFO     | print_automation | Closing Acrobat window 2: 'i
+nput_EGP.pdf - Adobe Acrobat Pro'
+2026-02-26 16:13:09 | INFO     | print_automation | Acrobat window closing compl
+eted
+2026-02-26 16:13:09 | INFO     | print_automation | Print automation completed s
+uccessfully
+2026-02-26 16:13:09 | INFO     | print_automation | [job_16_ee2c3c2a] Job comple
+ted. Output saved to: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_16_ee2
+c3c2a\EGP_printed.pdf
+2026-02-26 16:13:09 | INFO     | queue_manager | Print completed for job job_16_
+ee2c3c2a: EGP.pdf
+2026-02-26 16:13:09 | INFO     | queue_manager | Completed job job_16_ee2c3c2a.
+Output: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_16_ee2c3c2a\EGP_prin
+ted.pdf
+←[32mINFO←[0m:     192.168.6.99:54288 - "←[1mGET /job-status/job_16_ee2c3c2a HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:15:21 | INFO     | queue_manager | Saved input PDF to disk: C:\Uti
+lities\PDF_Utilities\pdf_printing\inputs\job_17_fac1d363\input_EGP.pdf
+2026-02-26 16:15:21 | INFO     | queue_manager | Added job job_17_fac1d363 to qu
+eue: EGP.pdf
+←[32mINFO←[0m:     192.168.6.99:58052 - "←[1mPOST /print-queue HTTP/1.1←[0m" ←[3
+2m200 OK←[0m
+2026-02-26 16:15:21 | INFO     | queue_manager | Processing job job_17_fac1d363:
+ EGP.pdf
+2026-02-26 16:15:21 | INFO     | queue_manager | Starting print for job job_17_f
+ac1d363: EGP.pdf
+2026-02-26 16:15:21 | INFO     | print_automation | PRE-JOB: Cleaning up any sta
+le Acrobat processes...
+2026-02-26 16:15:24 | INFO     | print_automation | PHASE 1: Opening PDF: input_
+EGP.pdf
+←[32mINFO←[0m:     192.168.6.99:63783 - "←[1mGET /job-status/job_17_fac1d363 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:15:41 | INFO     | print_automation | PHASE 2: Acrobat window acti
+vated via pattern 'Adobe Acrobat'
+2026-02-26 16:15:41 | INFO     | print_automation | PHASE 3: Opening Print dialo
+g (Ctrl+P)...
+2026-02-26 16:15:45 | INFO     | print_automation | PHASE 4: Pressing Enter to s
+tart Adobe PDF printing...
+2026-02-26 16:15:49 | INFO     | print_automation | PHASE 5: Waiting for Save As
+ dialog...
+2026-02-26 16:15:54 | INFO     | print_automation | PHASE 5: Save dialog appeare
+d after 1s
+2026-02-26 16:15:57 | INFO     | print_automation | PHASE 6: Save As dialog acti
+vated
+2026-02-26 16:15:57 | INFO     | print_automation | PHASE 7: Entering output pat
+h: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_17_fac1d363\EGP_printed.p
+df
+2026-02-26 16:16:00 | INFO     | print_automation | PHASE 7: Enter pressed to sa
+ve PDF
+2026-02-26 16:16:00 | INFO     | print_automation | PHASE 8: Waiting for file sa
+ve...
+2026-02-26 16:16:01 | INFO     | print_automation | PHASE 8: File saved successf
+ully: EGP_printed.pdf
+2026-02-26 16:16:01 | INFO     | print_automation | PHASE 9: Closing all Acrobat
+ windows...
+2026-02-26 16:16:01 | INFO     | print_automation | Finding and closing all veri
+fied Acrobat windows...
+2026-02-26 16:16:03 | INFO     | print_automation | Found 2 verified Acrobat win
+dows to close
+2026-02-26 16:16:03 | INFO     | print_automation | Closing Acrobat window 1: 'E
+GP_printed.pdf - Adobe Acrobat Pro'
+2026-02-26 16:16:09 | INFO     | print_automation | Closing Acrobat window 2: 'i
+nput_EGP.pdf - Adobe Acrobat Pro'
+2026-02-26 16:16:13 | INFO     | print_automation | Acrobat window closing compl
+eted
+2026-02-26 16:16:13 | INFO     | print_automation | Print automation completed s
+uccessfully
+2026-02-26 16:16:13 | INFO     | print_automation | [job_17_fac1d363] Job comple
+ted. Output saved to: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_17_fac
+1d363\EGP_printed.pdf
+2026-02-26 16:16:13 | INFO     | queue_manager | Print completed for job job_17_
+fac1d363: EGP.pdf
+2026-02-26 16:16:13 | INFO     | queue_manager | Completed job job_17_fac1d363.
+Output: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_17_fac1d363\EGP_prin
+ted.pdf
+←[32mINFO←[0m:     192.168.6.99:60611 - "←[1mGET /job-status/job_17_fac1d363 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:16:53 | INFO     | queue_manager | Saved input PDF to disk: C:\Uti
+lities\PDF_Utilities\pdf_printing\inputs\job_18_be3e63bc\input_EGP.pdf
+2026-02-26 16:16:53 | INFO     | queue_manager | Added job job_18_be3e63bc to qu
+eue: EGP.pdf
+←[32mINFO←[0m:     192.168.6.99:62904 - "←[1mPOST /print-queue HTTP/1.1←[0m" ←[3
+2m200 OK←[0m
+2026-02-26 16:16:54 | INFO     | queue_manager | Processing job job_18_be3e63bc:
+ EGP.pdf
+2026-02-26 16:16:54 | INFO     | queue_manager | Starting print for job job_18_b
+e3e63bc: EGP.pdf
+2026-02-26 16:16:54 | INFO     | print_automation | PRE-JOB: Cleaning up any sta
+le Acrobat processes...
+2026-02-26 16:16:56 | INFO     | print_automation | PHASE 1: Opening PDF: input_
+EGP.pdf
+2026-02-26 16:17:13 | INFO     | print_automation | PHASE 2: Acrobat window acti
+vated via pattern 'Adobe Acrobat'
+2026-02-26 16:17:13 | INFO     | print_automation | PHASE 3: Opening Print dialo
+g (Ctrl+P)...
+2026-02-26 16:17:18 | INFO     | print_automation | PHASE 4: Pressing Enter to s
+tart Adobe PDF printing...
+2026-02-26 16:17:21 | INFO     | print_automation | PHASE 5: Waiting for Save As
+ dialog...
+2026-02-26 16:17:27 | INFO     | print_automation | PHASE 5: Save dialog appeare
+d after 1s
+2026-02-26 16:17:29 | INFO     | print_automation | PHASE 6: Save As dialog acti
+vated
+2026-02-26 16:17:29 | INFO     | print_automation | PHASE 7: Entering output pat
+h: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_18_be3e63bc\EGP_printed.p
+df
+2026-02-26 16:17:33 | INFO     | print_automation | PHASE 7: Enter pressed to sa
+ve PDF
+2026-02-26 16:17:33 | INFO     | print_automation | PHASE 8: Waiting for file sa
+ve...
+2026-02-26 16:17:34 | INFO     | print_automation | PHASE 8: File saved successf
+ully: EGP_printed.pdf
+2026-02-26 16:17:34 | INFO     | print_automation | PHASE 9: Closing all Acrobat
+ windows...
+2026-02-26 16:17:34 | INFO     | print_automation | Finding and closing all veri
+fied Acrobat windows...
+2026-02-26 16:17:36 | INFO     | print_automation | Found 2 verified Acrobat win
+dows to close
+2026-02-26 16:17:36 | INFO     | print_automation | Closing Acrobat window 1: 'E
+GP_printed.pdf - Adobe Acrobat Pro'
+2026-02-26 16:17:41 | INFO     | print_automation | Closing Acrobat window 2: 'i
+nput_EGP.pdf - Adobe Acrobat Pro'
+2026-02-26 16:17:45 | INFO     | print_automation | Acrobat window closing compl
+eted
+2026-02-26 16:17:45 | INFO     | print_automation | Print automation completed s
+uccessfully
+2026-02-26 16:17:45 | INFO     | print_automation | [job_18_be3e63bc] Job comple
+ted. Output saved to: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_18_be3
+e63bc\EGP_printed.pdf
+2026-02-26 16:17:45 | INFO     | queue_manager | Print completed for job job_18_
+be3e63bc: EGP.pdf
+2026-02-26 16:17:45 | INFO     | queue_manager | Completed job job_18_be3e63bc.
+Output: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_18_be3e63bc\EGP_prin
+ted.pdf
+←[32mINFO←[0m:     192.168.6.99:61759 - "←[1mGET /job-status/job_18_be3e63bc HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:19:02 | INFO     | queue_manager | Saved input PDF to disk: C:\Uti
+lities\PDF_Utilities\pdf_printing\inputs\job_19_cc25ba02\input_EGP.pdf
+2026-02-26 16:19:02 | INFO     | queue_manager | Added job job_19_cc25ba02 to qu
+eue: EGP.pdf
+←[32mINFO←[0m:     192.168.6.99:62808 - "←[1mPOST /print-queue HTTP/1.1←[0m" ←[3
+2m200 OK←[0m
+2026-02-26 16:19:02 | INFO     | queue_manager | Processing job job_19_cc25ba02:
+ EGP.pdf
+2026-02-26 16:19:02 | INFO     | queue_manager | Starting print for job job_19_c
+c25ba02: EGP.pdf
+2026-02-26 16:19:02 | INFO     | print_automation | PRE-JOB: Cleaning up any sta
+le Acrobat processes...
+2026-02-26 16:19:05 | INFO     | print_automation | PHASE 1: Opening PDF: input_
+EGP.pdf
+2026-02-26 16:19:17 | INFO     | queue_manager | Saved input PDF to disk: C:\Uti
+lities\PDF_Utilities\pdf_printing\inputs\job_20_d0243d8f\input_BOE.pdf
+2026-02-26 16:19:17 | INFO     | queue_manager | Added job job_20_d0243d8f to qu
+eue: BOE.pdf
+←[32mINFO←[0m:     192.168.6.99:63281 - "←[1mPOST /print-queue HTTP/1.1←[0m" ←[3
+2m200 OK←[0m
+2026-02-26 16:19:22 | INFO     | print_automation | PHASE 2: Acrobat window acti
+vated via pattern 'Adobe Acrobat'
+2026-02-26 16:19:22 | INFO     | print_automation | PHASE 3: Opening Print dialo
+g (Ctrl+P)...
+2026-02-26 16:19:27 | INFO     | print_automation | PHASE 4: Pressing Enter to s
+tart Adobe PDF printing...
+2026-02-26 16:19:30 | INFO     | print_automation | PHASE 5: Waiting for Save As
+ dialog...
+2026-02-26 16:19:35 | INFO     | print_automation | PHASE 5: Save dialog appeare
+d after 1s
+2026-02-26 16:19:38 | INFO     | print_automation | PHASE 6: Save As dialog acti
+vated
+2026-02-26 16:19:38 | INFO     | print_automation | PHASE 7: Entering output pat
+h: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_19_cc25ba02\EGP_printed.p
+df
+2026-02-26 16:19:41 | INFO     | print_automation | PHASE 7: Enter pressed to sa
+ve PDF
+2026-02-26 16:19:41 | INFO     | print_automation | PHASE 8: Waiting for file sa
+ve...
+←[32mINFO←[0m:     192.168.6.99:52626 - "←[1mGET /job-status/job_19_cc25ba02 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:20:02 | INFO     | print_automation | Force-killed all Acrobat.exe
+ processes
+2026-02-26 16:20:04 | ERROR    | queue_manager | Unexpected error during print j
+ob job_19_cc25ba02: File save timed out after 20 seconds. Output path: C:\Utilit
+ies\PDF_Utilities\pdf_printing\outputs\job_19_cc25ba02\EGP_printed.pdf
+2026-02-26 16:20:04 | ERROR    | queue_manager | Failed job job_19_cc25ba02 [tim
+eout]: File save timed out after 20 seconds. Output path: C:\Utilities\PDF_Utili
+ties\pdf_printing\outputs\job_19_cc25ba02\EGP_printed.pdf
+2026-02-26 16:20:05 | INFO     | queue_manager | Processing job job_20_d0243d8f:
+ BOE.pdf
+2026-02-26 16:20:05 | INFO     | queue_manager | Starting print for job job_20_d
+0243d8f: BOE.pdf
+2026-02-26 16:20:05 | INFO     | print_automation | PRE-JOB: Cleaning up any sta
+le Acrobat processes...
+2026-02-26 16:20:08 | INFO     | print_automation | PHASE 1: Opening PDF: input_
+BOE.pdf
+←[32mINFO←[0m:     192.168.6.99:54691 - "←[1mGET /job-status/job_19_cc25ba02 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+←[32mINFO←[0m:     192.168.6.99:50664 - "←[1mGET /job-status/job_20_d0243d8f HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:20:25 | INFO     | print_automation | PHASE 2: Acrobat window acti
+vated via pattern 'Adobe Acrobat'
+2026-02-26 16:20:25 | INFO     | print_automation | PHASE 3: Opening Print dialo
+g (Ctrl+P)...
+2026-02-26 16:20:29 | INFO     | print_automation | PHASE 4: Pressing Enter to s
+tart Adobe PDF printing...
+2026-02-26 16:20:33 | INFO     | print_automation | PHASE 5: Waiting for Save As
+ dialog...
+2026-02-26 16:20:38 | INFO     | print_automation | PHASE 5: Save dialog appeare
+d after 1s
+2026-02-26 16:20:41 | INFO     | print_automation | PHASE 6: Save As dialog acti
+vated
+2026-02-26 16:20:41 | INFO     | print_automation | PHASE 7: Entering output pat
+h: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_20_d0243d8f\BOE_printed.p
+df
+2026-02-26 16:20:44 | INFO     | print_automation | PHASE 7: Enter pressed to sa
+ve PDF
+2026-02-26 16:20:44 | INFO     | print_automation | PHASE 8: Waiting for file sa
+ve...
+2026-02-26 16:21:05 | INFO     | print_automation | Force-killed all Acrobat.exe
+ processes
+2026-02-26 16:21:07 | ERROR    | queue_manager | Unexpected error during print j
+ob job_20_d0243d8f: File save timed out after 20 seconds. Output path: C:\Utilit
+ies\PDF_Utilities\pdf_printing\outputs\job_20_d0243d8f\BOE_printed.pdf
+2026-02-26 16:21:07 | ERROR    | queue_manager | Failed job job_20_d0243d8f [tim
+eout]: File save timed out after 20 seconds. Output path: C:\Utilities\PDF_Utili
+ties\pdf_printing\outputs\job_20_d0243d8f\BOE_printed.pdf
+←[32mINFO←[0m:     192.168.6.99:58475 - "←[1mGET /job-status/job_20_d0243d8f HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:21:53 | INFO     | queue_manager | Saved input PDF to disk: C:\Uti
+lities\PDF_Utilities\pdf_printing\inputs\job_21_e2ff5868\input_BOE.pdf
+2026-02-26 16:21:53 | INFO     | queue_manager | Added job job_21_e2ff5868 to qu
+eue: BOE.pdf
+←[32mINFO←[0m:     192.168.6.99:52448 - "←[1mPOST /print-queue HTTP/1.1←[0m" ←[3
+2m200 OK←[0m
+2026-02-26 16:21:54 | INFO     | queue_manager | Processing job job_21_e2ff5868:
+ BOE.pdf
+2026-02-26 16:21:54 | INFO     | queue_manager | Starting print for job job_21_e
+2ff5868: BOE.pdf
+2026-02-26 16:21:54 | INFO     | print_automation | PRE-JOB: Cleaning up any sta
+le Acrobat processes...
+2026-02-26 16:21:56 | INFO     | print_automation | PHASE 1: Opening PDF: input_
+BOE.pdf
+←[32mINFO←[0m:     192.168.6.99:49356 - "←[1mGET /job-status/job_21_e2ff5868 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:22:13 | INFO     | print_automation | PHASE 2: Acrobat window acti
+vated via pattern 'Adobe Acrobat'
+2026-02-26 16:22:13 | INFO     | print_automation | PHASE 3: Opening Print dialo
+g (Ctrl+P)...
+2026-02-26 16:22:18 | INFO     | print_automation | PHASE 4: Pressing Enter to s
+tart Adobe PDF printing...
+2026-02-26 16:22:22 | INFO     | print_automation | PHASE 5: Waiting for Save As
+ dialog...
+2026-02-26 16:22:27 | INFO     | print_automation | PHASE 5: Save dialog appeare
+d after 1s
+←[32mINFO←[0m:     192.168.6.99:62646 - "←[1mGET /job-status/job_21_e2ff5868 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:22:30 | INFO     | print_automation | PHASE 6: Save As dialog acti
+vated
+2026-02-26 16:22:30 | INFO     | print_automation | PHASE 7: Entering output pat
+h: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_21_e2ff5868\BOE_printed.p
+df
+2026-02-26 16:22:33 | INFO     | print_automation | PHASE 7: Enter pressed to sa
+ve PDF
+2026-02-26 16:22:33 | INFO     | print_automation | PHASE 8: Waiting for file sa
+ve...
+2026-02-26 16:22:34 | INFO     | print_automation | PHASE 8: File saved successf
+ully: BOE_printed.pdf
+2026-02-26 16:22:34 | INFO     | print_automation | PHASE 9: Closing all Acrobat
+ windows...
+2026-02-26 16:22:34 | INFO     | print_automation | Finding and closing all veri
+fied Acrobat windows...
+←[32mINFO←[0m:     192.168.6.99:53815 - "←[1mGET /job-status/job_21_e2ff5868 HTT
+P/1.1←[0m" ←[32m200 OK←[0m
+2026-02-26 16:22:36 | INFO     | print_automation | Found 2 verified Acrobat win
+dows to close
+2026-02-26 16:22:36 | INFO     | print_automation | Closing Acrobat window 1: 'B
+OE_printed.pdf - Adobe Acrobat Pro'
+2026-02-26 16:22:41 | INFO     | print_automation | Closing Acrobat window 2: 'i
+nput_BOE.pdf - Adobe Acrobat Pro'
+2026-02-26 16:22:46 | INFO     | print_automation | Acrobat window closing compl
+eted
+2026-02-26 16:22:46 | INFO     | print_automation | Print automation completed s
+uccessfully
+2026-02-26 16:22:46 | INFO     | print_automation | [job_21_e2ff5868] Job comple
+ted. Output saved to: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_21_e2f
+f5868\BOE_printed.pdf
+2026-02-26 16:22:46 | INFO     | queue_manager | Print completed for job job_21_
+e2ff5868: BOE.pdf
+2026-02-26 16:22:46 | INFO     | queue_manager | Completed job job_21_e2ff5868.
+Output: C:\Utilities\PDF_Utilities\pdf_printing\outputs\job_21_e2ff5868\BOE_prin
+ted.pdf
+←[32mINFO←[0m:     192.168.6.99:50595 - "←[1mGET /job-status/job_21_e2ff5868 HTT
+P/1.1←[0m" ←[32m200 OK←[0m

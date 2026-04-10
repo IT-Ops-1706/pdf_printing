@@ -1,0 +1,8 @@
+2026-02-24 16:55:06 | INFO     | job.job_3_21a99479 | START: Processing job job_3_21a99479 - File: BOE_IFDHJ.pdf
+2026-02-24 16:55:06 | INFO     | job.job_3_21a99479 | Timestamp: 2026-02-24 16:55:06.282358
+2026-02-24 16:55:06 | INFO     | job.job_3_21a99479 | Status: STARTED
+2026-02-24 16:55:06 | INFO     | job.job_3_21a99479 | PHASE: Calling automation service
+2026-02-24 16:55:45 | INFO     | job.job_3_21a99479 | Status: COMPLETED
+2026-02-24 16:55:45 | INFO     | job.job_3_21a99479 | End Time: 2026-02-24 16:55:45.410184
+2026-02-24 16:55:45 | INFO     | job.job_3_21a99479 | Duration: 39.13 seconds
+2026-02-24 16:55:45 | INFO     | job.job_3_21a99479 | Result: Base64 output generated (84 chars)

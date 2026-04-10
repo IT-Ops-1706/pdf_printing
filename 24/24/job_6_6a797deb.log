@@ -1,0 +1,8 @@
+2026-02-24 17:05:37 | INFO     | job.job_6_6a797deb | START: Processing job job_6_6a797deb - File: GP.pdf
+2026-02-24 17:05:37 | INFO     | job.job_6_6a797deb | Timestamp: 2026-02-24 17:05:37.945707
+2026-02-24 17:05:37 | INFO     | job.job_6_6a797deb | Status: STARTED
+2026-02-24 17:05:37 | INFO     | job.job_6_6a797deb | PHASE: Calling automation service
+2026-02-24 17:06:19 | INFO     | job.job_6_6a797deb | Status: COMPLETED
+2026-02-24 17:06:19 | INFO     | job.job_6_6a797deb | End Time: 2026-02-24 17:06:19.322191
+2026-02-24 17:06:19 | INFO     | job.job_6_6a797deb | Duration: 41.38 seconds
+2026-02-24 17:06:19 | INFO     | job.job_6_6a797deb | Result: Base64 output generated (77 chars)
