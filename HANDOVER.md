@@ -129,19 +129,7 @@ When a job fails, open `job_<id>.log` and search for the last `PHASE` line — t
 
 ---
 
-## 7. Open Questions / Future Work
-
-These are known not-done items the next owner should consider:
-
-- **API key from env, not source.** `config.API_KEY` is hard-coded; move to `os.environ.get("PRINT_API_KEY")` with a startup assertion.
-- **Persistence across restarts.** Job metadata is in-memory only. If the service restarts mid-queue, queued jobs are lost (input PDFs are still on disk, but the queue itself is rebuilt empty). A SQLite-backed registry would close this gap cheaply.
-- **Migrate off Acrobat 9 Pro.** It's an EOL product. The same approach works against Acrobat DC with minor window-title changes; the higher-leverage rewrite would be to replace UI automation with a CLI-driven renderer (`pdftocairo`, `qpdf`, or a paid SDK) where the print-pipeline equivalence allows.
-- **Structured logs.** The pipe format is human-friendly but ops would benefit from JSON output (`logging.dictConfig`) so SIEMs can parse `error_type`, `job_id`, `phase`.
-- **Per-job timeout budget.** `PRINT_TIMEOUT = 120` exists in config but is not enforced anywhere; either wire it up or remove it.
-
----
-
-## 8. Repo & Branching
+## 7. Repo & Branching
 
 - Remote: `origin = https://github.com/IT-Ops-1706/pdf_printing.git`
 - Default branch: `main` — direct commits land here today; introduce PR review before opening up access.
@@ -149,6 +137,6 @@ These are known not-done items the next owner should consider:
 
 ---
 
-## 9. Contact / Ownership
+## 8. Contact / Ownership
 
 This service was built for an internal Babaji Shivram automation pipeline. Code under: `Backend/Python Projects/pdf_merge_utility/pdf_printing/`. When in doubt, read the per-job log for the failing `job_id` first — it captures more context than any external monitoring tool.
